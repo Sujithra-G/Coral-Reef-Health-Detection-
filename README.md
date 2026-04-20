@@ -33,5 +33,5 @@ The trained CNN model achieved good accuracy in classifying coral reef health co
 - Integration with underwater drones
 
 ## 👩‍💻 Author
-Eunice Krithi Sharol T  
+Sujithra G  
 SRM Institute of Science and Technology
